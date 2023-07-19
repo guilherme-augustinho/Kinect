@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w89qKL9ugArB+JSxDtzgAkKGnwkoEX/9vpQlosrEZo3ftk+HdA85hkAuIX6qZD0qW4QfvrFpWEnHB2V5KmWvwA==",
+  "success": true,
+  "projectFilePath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\3 - Desenvolvimento de Sistemas 2023\\Juan Campos\\testec# - Copia\\testec#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disrct\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\disrct\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\disrct\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

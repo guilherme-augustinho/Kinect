@@ -1,0 +1,50 @@
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\testec#.exe
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\testec#.deps.json
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\testec#.runtimeconfig.json
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\testec#.dll
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\testec#.pdb
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\disrct\Desktop\testec#\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.AssemblyInfo.cs
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.csproj.CopyComplete
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.dll
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\refint\testec#.dll
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.pdb
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\testec#.genruntimeconfig.cache
+C:\Users\disrct\Desktop\testec#\obj\Debug\net6.0\ref\testec#.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\testec#.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\testec#.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\testec#.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\testec#.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\testec#.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\System.Drawing.Common.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.csproj.CopyComplete
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\refint\testec#.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\testec#.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Murilo Kauan Socek\testec# - Copia\obj\Debug\net6.0\ref\testec#.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Juan Campos\testec# - Copia\obj\Debug\net6.0\testec#.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Juan Campos\testec# - Copia\obj\Debug\net6.0\testec#.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Juan Campos\testec# - Copia\obj\Debug\net6.0\testec#.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Juan Campos\testec# - Copia\obj\Debug\net6.0\testec#.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Juan Campos\testec# - Copia\obj\Debug\net6.0\testec#.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Juan Campos\testec# - Copia\obj\Debug\net6.0\testec#.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Juan Campos\testec# - Copia\obj\Debug\net6.0\refint\testec#.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\Juan Campos\testec# - Copia\obj\Debug\net6.0\testec#.pdb
